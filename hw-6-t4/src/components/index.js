@@ -1,1 +1,1 @@
-export * from './components'
+export {Clock} from './components'
