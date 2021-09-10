@@ -1,1 +1,3 @@
-export * from './components'
+import Clock from './clock';
+
+export default Clock;
